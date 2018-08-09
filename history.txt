@@ -248,3 +248,29 @@
   248  history
   249  clear
   250  history > history.txt
+  251  ls
+  252  git status
+  253  git add history.txt 
+  254  git status
+  255  git commit -m "learning linux and git"
+  256  git config --global user.email "mkamonde.km@gmail.com"
+  257  git config --global user.name "kamondemwangi"
+  258  git commit -m "learning linux and git"
+  259* 
+  260  git push -u origin master
+  261  git remote add origin https://github.com/kamondemwangi/introduction-to-linux.git
+  262  git push -u origin master
+  263  history
+  264  git push -u origin master
+  265  git remote set url https://github.com/kamondemwangi/introduction-to-linux.git
+  266* git remote set -url origin https://github.com/kamondemwangi/introduction-to-linux.git
+  267  git remote set-url https://github.com/kamondemwangi/introduction-to-linux.git
+  268  git remote set-url origin https://github.com/kamondemwangi/introduction-to-linux.git
+  269  git push -u origin master
+  270  git > git.txt
+  271  history > newhistory.txt
+  272  ls
+  273  cp newhistory.txt 
+  274  tail history
+  275  tail history.txt 
+  276  history > history.txt 
